@@ -1,0 +1,5 @@
+a = float (input("a= "))
+b = float (input("b= "))
+print ("chu vi = ", 2*(a+b))
+print ("Dien tich = ", a*b)
+print("test")
